@@ -1,6 +1,6 @@
 import re
 
-# password = "R@m@_f0rtu9e$1234"
+# aiven_service_password = "R@m@_f0rtu9e$1234"
 
 password = "R@m@_f0rtu9e$1234"
 flag = 0
