@@ -1,6 +1,6 @@
 import re
 
-password = "R@m@_f0rtu9e$"
+password = "R@m@_f0rtu9e$1234"
 flag = 0
 while True:
     if (len(password) <= 8):
